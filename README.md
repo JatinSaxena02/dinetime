@@ -1,4 +1,4 @@
-# dinetime
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/563aecfd-5c62-4a7e-9997-12ca4f25db88" /># dinetime
 This app helps you to book table in your favorite restaurants.
 
 # 📌 Project Overview
@@ -47,27 +47,43 @@ This project is built using React Native with several libraries and techniques t
 
 # 📑 **Core Functionalities**
 
-1. Add User – Add and store user details.
-3. Add DOC – Add and manage document details.
-4. Update DOC – Update already existing document details.
-5. Update User – Update user profile information.
-6. Delete DOC – Delete an existing document from the database.
-7. Delete User – Remove an existing user’s details.
-8. Display DOC – Display stored documents for the user.
-9. Display User – Display stored user details.
-10. Fetch Data from Firestore – Retrieve data in real-time from Firebase Firestore database.
-10.Signal Alert – Error-based prompts to guide users during incorrect actions.
-11.Signal Use Visuals – Properly designed UI alerts for both errors and success confirmations.
-12.Navigation-based Signal – Auto-redirect the user after successful login, logout, or registration.
+1️⃣ Add User – Add and store user details.
+
+2️⃣ Add DOC – Add and manage document details.
+
+3️⃣ Update DOC – Update already existing document details.
+
+4️⃣ Update User – Update user profile information.
+
+5️⃣ Delete DOC – Delete an existing document from the database.
+
+6️⃣ Delete User – Remove an existing user’s details.
+
+7️⃣ Display DOC – Display stored documents for the user.
+
+8️⃣ Display User – Display stored user details.
+
+9️⃣ Fetch Data from Firestore – Retrieve data in real-time from Firebase Firestore database.
+
+🔟Signal Alert – Error-based prompts to guide users during incorrect actions.
+
+1️⃣1️⃣ Signal Use Visuals – Properly designed UI alerts for both errors and success confirmations.
+
+1️⃣2️⃣ Navigation-based Signal – Auto-redirect the user after successful login, logout, or registration.
 
 # ⚙️ Technologies & Tools Used
 
-1️⃣ React Native – Base framework for mobile app development.
-2️⃣ Expo – For faster development, testing, and deployment.
-3️⃣ Formik – Easy form management with validations.
-4️⃣ Expo Linear Gradient – For designing colorful backgrounds.
-5️⃣ Expo Router – For file-based routing and navigation.
-6️⃣Firebase (Firestore & Authentication) – Backend database and authentication service.
+   1️⃣ React Native – Base framework for mobile app development.
+   
+   2️⃣ Expo – For faster development, testing, and deployment.
+   
+   3️⃣ Formik – Easy form management with validations.
+   
+   4️⃣ Expo Linear Gradient – For designing colorful backgrounds.
+   
+   5️⃣ Expo Router – For file-based routing and navigation.
+   
+   6️⃣Firebase (Firestore & Authentication) – Backend database and authentication service.
 
 # 📂 Project Workflow
 
@@ -114,32 +130,42 @@ This project is built using React Native with several libraries and techniques t
 Follow these steps to set up the project on your local machine:
 
 1️⃣ Prerequisites
+```
       Install Node.js(>= 16.x recommended)
       Install Expo Go app on your Android/iOS device
       Install Expo CLI globally:
           npm install -g expo-cli
+```
           
 2️⃣ Clone the Repository
+```
       git clone https://github.com/<your-username>/<your-repo-name>.git
       cd <your-repo-name>
-      
+```
 3️⃣ Install Dependencies
+```
       npm install
       # or
       yarn install
-    
+```    
 4️⃣ Setup Firebase
+```
       Create a Firebase project from the Firebase Console
       Enable Firestore Database and Authentication (Email/Password).
       Copy your Firebase config and add it to your project (usually in firebase.js).
-
+```
 5️⃣ Run the Project
+```
       npm start
       # or
       yarn start
+```
   -> This will open the Expo Dev Tools in your browser.
+  
   -> Scan the QR code using the Expo Go app to preview on your device.
 
 # 📖 Conclusion
+
    This project demonstrates how to build a scalable and responsive React Native mobile application by integrating Firebase, Expo, Formik, Expo Router, Linear Gradients, and custom signals. The structured           approach ensures easy navigation, smooth UI/UX, and real-time database connectivity.
-      ⚡ This app is built to simplify the dining experience for users while giving restaurants a reliable platform to manage reservations.
+   
+   ⚡ This app is built to simplify the dining experience for users while giving restaurants a reliable platform to manage reservations.
