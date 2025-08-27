@@ -47,18 +47,18 @@ This project is built using React Native with several libraries and techniques t
 
 # 📑 **Core Functionalities**
 
-Add User – Add and store user details.
-Add DOC – Add and manage document details.
-Update DOC – Update already existing document details.
-Update User – Update user profile information.
-Delete DOC – Delete an existing document from the database.
-Delete User – Remove an existing user’s details.
-Display DOC – Display stored documents for the user.
-Display User – Display stored user details.
-Fetch Data from Firestore – Retrieve data in real-time from Firebase Firestore database.
-Signal Alert – Error-based prompts to guide users during incorrect actions.
-Signal Use Visuals – Properly designed UI alerts for both errors and success confirmations.
-Navigation-based Signal – Auto-redirect the user after successful login, logout, or registration.
+1. Add User – Add and store user details.
+3. Add DOC – Add and manage document details.
+4. Update DOC – Update already existing document details.
+5. Update User – Update user profile information.
+6. Delete DOC – Delete an existing document from the database.
+7. Delete User – Remove an existing user’s details.
+8. Display DOC – Display stored documents for the user.
+9. Display User – Display stored user details.
+10. Fetch Data from Firestore – Retrieve data in real-time from Firebase Firestore database.
+10.Signal Alert – Error-based prompts to guide users during incorrect actions.
+11.Signal Use Visuals – Properly designed UI alerts for both errors and success confirmations.
+12.Navigation-based Signal – Auto-redirect the user after successful login, logout, or registration.
 
 # ⚙️ Technologies & Tools Used
 
