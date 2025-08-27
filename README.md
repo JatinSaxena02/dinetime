@@ -1,5 +1,5 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/563aecfd-5c62-4a7e-9997-12ca4f25db88" /># dinetime
-This app helps you to book table in your favorite restaurants.
+# dinetime
+## This app helps you to book table in your favorite restaurants.
 
 # 📌 Project Overview
 
