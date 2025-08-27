@@ -24,18 +24,26 @@ This project is built using React Native with several libraries and techniques t
 🔐 User Authentication – Secure login and signup using Firebase Authentication.
 
 🍴 Restaurant Listings – Displays a list of restaurants stored in Firestore.
+
 🔍 Smart Search – Users can search restaurants by name with real-time suggestions.
+
 📅 Table Booking System – Reserve a table for a specific date and time.
+
 🕑 Booking History – Keep track of past and upcoming reservations.
+
 ☁️ Cloud Firestore Integration – Real-time updates for restaurant availability and bookings.
+
 📱 Responsive UI – Clean and user-friendly interface built with React Native.
 
 # 🚀 **Key Features/Third party libraries Implemented**
 
-Ionicons – Used for adding scalable and customizable icons across the application.
-Formik – A third-party library for handling forms such as sign-up, sign-in, and profile updates.
-Expo Linear Gradient – For smooth and vibrant background designs, with multiple colors and sleek transitions in linear directions.
-Expo Router – A file-based routing system where the file/folder structure defines routes automatically. This makes navigation across different screens of the app simple and structured.
+   -> Ionicons – Used for adding scalable and customizable icons across the application.
+
+   -> Formik – A third-party library for handling forms such as sign-up, sign-in, and profile updates.
+   
+   -> Expo Linear Gradient – For smooth and vibrant background designs, with multiple colors and sleek transitions in linear directions.
+
+   -> Expo Router – A file-based routing system where the file/folder structure defines routes automatically. This makes navigation across different screens of the app simple and structured.
 
 # 📑 **Core Functionalities**
 
