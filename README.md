@@ -22,6 +22,7 @@ This project is built using React Native with several libraries and techniques t
 # 🚀 **Features**
 
 🔐 User Authentication – Secure login and signup using Firebase Authentication.
+
 🍴 Restaurant Listings – Displays a list of restaurants stored in Firestore.
 🔍 Smart Search – Users can search restaurants by name with real-time suggestions.
 📅 Table Booking System – Reserve a table for a specific date and time.
