@@ -62,12 +62,12 @@ This project is built using React Native with several libraries and techniques t
 
 # ⚙️ Technologies & Tools Used
 
-React Native – Base framework for mobile app development.
-Expo – For faster development, testing, and deployment.
-Formik – Easy form management with validations.
-Expo Linear Gradient – For designing colorful backgrounds.
-Expo Router – For file-based routing and navigation.
-Firebase (Firestore & Authentication) – Backend database and authentication service.
+1️⃣ React Native – Base framework for mobile app development.
+2️⃣ Expo – For faster development, testing, and deployment.
+3️⃣ Formik – Easy form management with validations.
+4️⃣ Expo Linear Gradient – For designing colorful backgrounds.
+5️⃣ Expo Router – For file-based routing and navigation.
+6️⃣Firebase (Firestore & Authentication) – Backend database and authentication service.
 
 # 📂 Project Workflow
 
